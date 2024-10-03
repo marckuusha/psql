@@ -2,7 +2,7 @@
 
 
 ```sql
-thai=# select count(*) from book.tickets;
+select count(*) from book.tickets;
 
   count   
 ----------
